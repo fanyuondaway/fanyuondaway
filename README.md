@@ -1,4 +1,4 @@
-# Hello, World! 👋 I'm Paul Wang
+# Hello, there! 👋 I'm Paul Wang
 
 **Data Enthusiast | Analytics & Product Focused | Lifelong Learner**
 
