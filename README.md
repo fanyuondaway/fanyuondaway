@@ -9,7 +9,7 @@
 - 🎯 **Graduate**: Currently pursuing Master's in Data Analytics and Artificial Intelligence at *Hong Kong Baptist University*
 - 🔍 **Interests**: Data Analytics, Product Strategy, Machine Learning, and Open-Source Collaboration
 - 🌱 **Learning**: Advanced ML models, Product Management frameworks, and Data Visualization tools
-- 💡 **Fun Fact**: I love turning raw data into actionable insights and user-centric product ideas!
+- 💡 **Fun Fact**: I love music production and football. I also love strategy game!
 
 ---
 
